@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Projects C#\WorldMap\bin\Debug\WorldMap.exe.config
+C:\Users\User\Desktop\Projects C#\WorldMap\bin\Debug\WorldMap.exe
+C:\Users\User\Desktop\Projects C#\WorldMap\bin\Debug\WorldMap.pdb
+C:\Users\User\Desktop\Projects C#\WorldMap\obj\Debug\WorldMap.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Projects C#\WorldMap\obj\Debug\WorldMap.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects C#\WorldMap\obj\Debug\WorldMap.exe
+C:\Users\User\Desktop\Projects C#\WorldMap\obj\Debug\WorldMap.pdb
